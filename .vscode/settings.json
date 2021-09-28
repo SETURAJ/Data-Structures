@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iostream": "cpp",
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "new": "cpp",
+        "stack": "cpp",
+        "*.tcc": "cpp"
+    },
+    "cSpell.words": [
+        "indegree",
+        "lheight",
+        "rheight"
+    ]
+}

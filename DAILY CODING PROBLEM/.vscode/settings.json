@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.txt": "plaintext",
+        "*.cpp": "cpp",
+        "complex": "cpp",
+        "span": "cpp",
+        "type_traits": "cpp",
+        "iostream": "cpp"
+    }
+}
